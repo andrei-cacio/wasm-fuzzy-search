@@ -1,0 +1,16 @@
+{
+  "name": "fuzzy-search",
+  "collaborators": [
+    "Andrei Cacio <andrei.cacio@yahoo.com>"
+  ],
+  "description": null,
+  "version": "0.1.0",
+  "license": null,
+  "repository": null,
+  "files": [
+    "fuzzy_search_bg.wasm",
+    "fuzzy_search.d.ts"
+  ],
+  "main": "fuzzy_search.js",
+  "types": "fuzzy_search.d.ts"
+}
