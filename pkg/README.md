@@ -1,2 +1,2 @@
-# wasm-pack-template
-a template for starting a rust-wasm project to be used with wasm-pack
+# wasm-fuzzy-search
+A simple fuzzy search function written in Rust and compiled to WASM
